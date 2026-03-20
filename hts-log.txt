@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 12 Sep 2025 16:34:52 at https://providerp.eu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://providerp.eu/ -O1 "D:\jentak si hraju\aw\dementingo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:35:12	Error: 	"Not Found" (404) at link https://providerp.eu/favicon-16x16.png (from https://providerp.eu/)
+16:35:12	Error: 	"Not Found" (404) at link https://providerp.eu/apple-touch-icon.png (from https://providerp.eu/)
+16:35:12	Error: 	"Not Found" (404) at link https://providerp.eu/whitelist (from https://providerp.eu/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 67 links scanned, 63 files written (9839355 bytes overall) [8767674 bytes received at 381203 bytes/sec], 1757007 bytes transferred using HTTP compression in 38 files, ratio 30%
+(3 errors, 0 warnings, 0 messages)
